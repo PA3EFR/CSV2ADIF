@@ -1,0 +1,14 @@
+{
+  "ADIFColumns": [
+    "MY_CALL",
+    "CALL",
+    "SIG_INFO",
+    "QSO_DATE#DATE",
+    "TIME_ON#Time6",
+    "BAND",
+    "MODE",
+    "RST_SENT",
+    "COMMENT"
+  ],
+  "ADIFDefaults": []
+}
